@@ -21,7 +21,7 @@ This project is the first JS React app
 
 - [Getting Started](https://reactjs.org/docs/getting-started.html)
 
-- 
+- [React Bootstrap](https://react-bootstrap.github.io/)
 
 ## Comments & Reflections Lab 1
 
@@ -30,19 +30,19 @@ This project is the first JS React app
 ## Comments & Reflections Lab 2
 
 Number and name of feature: Feature #1 - Display images
-Estimate of time needed to complete: 
-Start time: 
-Finish time: 
-Actual time needed to complete: 
+Estimate of time needed to complete: 90 minutes
+Start time: 1:20pm
+Finish time: 2:08pm
+Actual time needed to complete: 48 minutes
 
 Number and name of feature: Feature #2 - Allow users to vote for their favorite beast
-Estimate of time needed to complete: 
-Start time: 
-Finish time: 
-Actual time needed to complete: 
+Estimate of time needed to complete:
+Start time:
+Finish time:
+Actual time needed to complete:
 
 Number and name of feature: Feature 3 -  Bootstrap
-Estimate of time needed to complete: 
-Start time: 
-Finish time: 
-Actual time needed to complete: 
+Estimate of time needed to complete:
+Start time:
+Finish time:
+Actual time needed to complete:
