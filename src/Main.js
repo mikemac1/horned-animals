@@ -11,6 +11,7 @@ class Main extends React.Component {
                 title={beast.title}
                 imageUrl={beast.image_url}
                 description={beast.description}
+                key={beast._id}
             />)
         });
 

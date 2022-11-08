@@ -36,13 +36,13 @@ Finish time: 2:08pm
 Actual time needed to complete: 48 minutes
 
 Number and name of feature: Feature #2 - Allow users to vote for their favorite beast
-Estimate of time needed to complete:
-Start time:
-Finish time:
-Actual time needed to complete:
+Estimate of time needed to complete: 90 minutes
+Start time: 2:15pm
+Finish time: 2:47pm
+Actual time needed to complete: 32 minutes
 
 Number and name of feature: Feature 3 -  Bootstrap
-Estimate of time needed to complete:
-Start time:
+Estimate of time needed to complete: 90 minutes
+Start time: 2:50pm
 Finish time:
 Actual time needed to complete:

@@ -10,14 +10,22 @@ h1 {
 }
 
 img {
-  width: 50%;
+  width: 30%;
   margin-left: 50px;
 }
 
 article p {
   font-weight: bold;
   margin-left: 50px;
-  margin-bottom: 50px;;
+  margin-bottom: 50px;
+}
+
+.favorite {
+  margin-top: -30px;
+  margin-left: 50px;
+  margin-bottom: 0px;
+  color: rgb(209, 182, 222);
+  font-weight: bold;
 }
 
 footer {
