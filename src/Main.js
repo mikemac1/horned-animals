@@ -5,6 +5,11 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
 class Main extends React.Component {
+
+handleImageClick = () => {
+    this.props.openImage(this.props.imageUrl);
+}
+
     render() {
 
         let beastArr = this.props.Data.map((beast) => {
