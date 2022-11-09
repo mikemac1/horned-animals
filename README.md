@@ -2,11 +2,12 @@
 
 This project is the first JS React app
 
-## Lab 01
+## Lab 01/Lab 02/
 
 ## Problem Domain
 
 7 November - Create a new React application using create-react-app and began filling it with components.
+8 November - The goal is to use the JSON file provided to display the title, image and description of each horned beast in the application.
 
 ## Instructions
 
@@ -20,6 +21,28 @@ This project is the first JS React app
 
 - [Getting Started](https://reactjs.org/docs/getting-started.html)
 
+- [React Bootstrap](https://react-bootstrap.github.io/)
+
 ## Comments & Reflections Lab 1
 
 - Created a react app using the npx create-react-app. Fairly straight-forward and it feels like I am unlearning how I set up the HTML portion of the app. Not hard but going slow as I tried to figure out what I was doing. I had two issues to overcome. The first was getting several warnings and errors that were attributed to not having React Dev Tools installed as a Chrome extension.  The second issue was my syntax was incorrect when passing the HornedBeast props from the Main component to HornedBeast. Sadly an easy fix that a TA had to point out but correctible.  Overall it took me 2.5 hours to complete this lab.
+
+## Comments & Reflections Lab 2
+
+Number and name of feature: Feature #1 - Display images
+Estimate of time needed to complete: 90 minutes
+Start time: 1:20pm
+Finish time: 2:08pm
+Actual time needed to complete: 48 minutes
+
+Number and name of feature: Feature #2 - Allow users to vote for their favorite beast
+Estimate of time needed to complete: 90 minutes
+Start time: 2:15pm
+Finish time: 2:47pm
+Actual time needed to complete: 32 minutes
+
+Number and name of feature: Feature 3 -  Bootstrap
+Estimate of time needed to complete: 90 minutes
+Start time: 2:50pm
+Finish time: 4:19pm
+Actual time needed to complete: 89 minutes
