@@ -2,12 +2,13 @@
 
 This project is the first JS React app
 
-## Lab 01/Lab 02/
+## Lab 01/Lab 02/Lab 03
 
 ## Problem Domain
 
 7 November - Create a new React application using create-react-app and began filling it with components.
 8 November - The goal is to use the JSON file provided to display the title, image and description of each horned beast in the application.
+9 November - The goal is to add a feature to the Gallery Of Horns that allows the user to click on an image and display it as a modal.
 
 ## Instructions
 
@@ -60,3 +61,21 @@ What still puzzles me, or what do I need to learn more about? LoL, everything. I
 - basic JS fundamentals
 
 - Is the assignment complete? If not, where exactly did you leave off, and what work remains? It is completed, barely, but completed.
+
+## Comments & Reflections Lab 3
+
+Number and name of feature: Feature #1 - Display a modal
+Estimate of time needed to complete: 3 hours
+Start time: 1:05pm
+Finish time: pm
+Actual time needed to complete:
+
+- What went well, that I might forget if I don’t write down?
+
+- What did I learn today?
+
+- What should I do differently next time?
+
+- What still puzzles me, or what do I need to learn more about?
+
+- Is the assignment complete? If not, where exactly did you leave off, and what work remains?
