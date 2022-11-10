@@ -6,10 +6,6 @@ import Col from 'react-bootstrap/Col';
 
 class Main extends React.Component {
 
-handleImageClick = () => {
-    this.props.openImage(this.props.imageUrl);
-}
-
     render() {
 
         let beastArr = this.props.Data.map((beast) => {
@@ -18,6 +14,7 @@ handleImageClick = () => {
                 imageUrl={beast.image_url}
                 description={beast.description}
                 key={beast._id}
+                displayBeastModal={() => this.props.displayBeastModal(beast)}
             />
         });
 
