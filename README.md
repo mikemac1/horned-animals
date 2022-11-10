@@ -2,13 +2,14 @@
 
 This project is the first JS React app
 
-## Lab 01/Lab 02/Lab 03
+## Lab 01/Lab 02/Lab 03/Lab 04
 
 ## Problem Domain
 
 7 November - Create a new React application using create-react-app and began filling it with components.
 8 November - The goal is to use the JSON file provided to display the title, image and description of each horned beast in the application.
 9 November - The goal is to add a feature to the Gallery Of Horns that allows the user to click on an image and display it as a modal.
+10 November - A user is presented with filtering options when the user clicks on one option then the images should be filtered accordingly
 
 ## Instructions
 
@@ -79,3 +80,21 @@ Actual time needed to complete: 5 hours
 - What still puzzles me, or what do I need to learn more about? Again, everything. I don't know how state, setState, the difference between calling a function and just passing the function's name. I'm really at a loss. I'm surprised I haven't been asked to stop coming to class because I really don't get any of this.
 
 - Is the assignment complete? If not, where exactly did you leave off, and what work remains? Yes it is complete only because of what the TAs (Justin, Matt, & Tammy) and Sheyna directed me to do.
+
+## Comments & Reflections Lab 4
+
+Number and name of feature: Feature 1 - Filter by Numbers of Horns
+Estimate of time needed to complete: 5 hours
+Start time: 2:00pm
+Finish time: pm
+Actual time needed to complete:
+
+- What went well, that I might forget if I don’t write down?
+
+- What did I learn today?
+
+- What should I do differently next time?
+
+- What still puzzles me, or what do I need to learn more about?
+
+- Is the assignment complete? If not, where exactly did you leave off, and what work remains?
