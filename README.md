@@ -67,15 +67,15 @@ What still puzzles me, or what do I need to learn more about? LoL, everything. I
 Number and name of feature: Feature #1 - Display a modal
 Estimate of time needed to complete: 3 hours
 Start time: 1:05pm
-Finish time: pm
-Actual time needed to complete:
+Finish time: 6:34pm
+Actual time needed to complete: 5 hours
 
-- What went well, that I might forget if I don’t write down?
+- What went well, that I might forget if I don’t write down? Ummmm, the fact that I can type what the T/As tell me to type. I really don't know how my site is working and couldn't walk you thru it if you asked me.
 
-- What did I learn today?
+- What did I learn today? The one thing I learned today is that `this.props` means it came from a parent.
 
-- What should I do differently next time?
+- What should I do differently next time? I honestly don't know. I immediately starting working on the lab because I was afraid of what was going to have to be accomplished and not knowing where to start. Honestly I still have the code challenge to do and after being up since before 4am, I will be lucky to get half of them done.
 
-- What still puzzles me, or what do I need to learn more about?
+- What still puzzles me, or what do I need to learn more about? Again, everything. I don't know how state, setState, the difference between calling a function and just passing the function's name. I'm really at a loss. I'm surprised I haven't been asked to stop coming to class because I really don't get any of this.
 
-- Is the assignment complete? If not, where exactly did you leave off, and what work remains?
+- Is the assignment complete? If not, where exactly did you leave off, and what work remains? Yes it is complete only because of what the TAs (Justin, Matt, & Tammy) and Sheyna directed me to do.
