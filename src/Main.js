@@ -3,6 +3,7 @@ import HornedBeast from './HornedBeast.js';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import BeastForm from './BeastForm.js';
 
 class Main extends React.Component {
 
@@ -13,6 +14,7 @@ class Main extends React.Component {
                 title={beast.title}
                 imageUrl={beast.image_url}
                 description={beast.description}
+                horns={beast.horns}
                 key={beast._id}
                 displayBeastModal={() => this.props.displayBeastModal(beast)}
             />
@@ -21,6 +23,9 @@ class Main extends React.Component {
         return (
             <>
                 <main>
+                    <BeastForm 
+                    filter={this.props.filter}
+                    />
                     <Container fluid="lg">
                             <Row>
                                 <Col>{beastArr[0]}</Col>

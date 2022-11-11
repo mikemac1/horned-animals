@@ -17,8 +17,26 @@ class App extends React.Component {
     }
   }
 
-  displayBeastModal = (selectedBeast) => {
+  handleFilter = (event) => {
+    let horns = event.target.value;
+    let newData;
+    if (horns === '1') {
+      newData = beastData.filter(beast => beast.horns === 1)
+    } else if (horns === '2') {
+      newData = beastData.filter(beast => beast.horns === 2)
+    } else if (horns === '3') {
+      newData = beastData.filter(beast => beast.horns === 3)
+    } else if (horns === 'MANY') {
+      newData = beastData.filter(beast => beast.horns > 3);
+    } else {
+      newData = beastData
+    }
+    this.setState({
+      allBeast: newData
+    });
+  }
 
+  displayBeastModal = (selectedBeast) => {
     this.setState({
       modalShown: true,
       selectedBeast: selectedBeast
@@ -32,13 +50,13 @@ class App extends React.Component {
     });
   };
 
-
   render() {
     return (
       <>
-        <Header></Header>
+        <Header />
         <Main
-          Data={beastData}
+          filter={this.handleFilter}
+          Data={this.state.allBeast}
           displayBeastModal={this.displayBeastModal}
         />
         <SelectedBeast
@@ -46,8 +64,7 @@ class App extends React.Component {
           show={this.state.modalShown}
           onHide={this.closeBeastModal}
         />
-        <Footer></Footer>
-        
+        <Footer />
       </>
     );
   }
