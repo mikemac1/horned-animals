@@ -86,15 +86,20 @@ Actual time needed to complete: 5 hours
 Number and name of feature: Feature 1 - Filter by Numbers of Horns
 Estimate of time needed to complete: 5 hours
 Start time: 2:00pm
-Finish time: pm
-Actual time needed to complete:
+Finish time: 5:10pm
+Actual time needed to complete: a little over 3 hours
 
 - What went well, that I might forget if I don’t write down?
+It only took three hours and not five hours as expected but it helped that the functionality didn't seemed as intense yesterday. I did learn that I was able to refer to data.json as BeastData from what I called it on import and didn't need to set another variable or this.something.
 
 - What did I learn today?
+State lives at the app.js file with the functions required to access state. Each component has the parts of the site which are built for rendering.
 
 - What should I do differently next time?
+If I knew that I would be a rich man. All I can do is keep trying. I just wish that I could go through a lab and not need a TA, not need to watch the day's lecture (again), or not need to look at the class code repository. I just want to do it by myself with my own knowledge with what I learned and/or already know.
 
 - What still puzzles me, or what do I need to learn more about?
+Again a ton, but the piece I wish I could get immediately is how to come up with clean identifiers that will provide someone else looking at my code an immediate understanding of what is going on. Every time the instructor or a TA looks at my code the name of a function or a variable is getting changed. That is something I wish I could come up with.
 
 - Is the assignment complete? If not, where exactly did you leave off, and what work remains?
+The assignment is completed.
